@@ -37,3 +37,9 @@ blockquote p span{
 	font-style: italic;
 }
 /* end special italic styling */
+
+/* blockquote loud advert */
+#the-tunnel-under-the-world-2 blockquote p{
+	font-variant: small-caps;
+}
+/* end blockquote loud advert */
