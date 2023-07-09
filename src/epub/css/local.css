@@ -19,6 +19,12 @@ q{
 }
 /* end q italics */
 
+/* era */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+/* end era*/
+
 /* blockquote header */
 blockquote header{
 	font-variant: small-caps;
@@ -27,7 +33,7 @@ blockquote header{
 /* end blockquote header */
 
 /* special italic styling */
-blockquote > span{
+blockquote p span{
 	font-style: italic;
 }
 /* end special italic styling */

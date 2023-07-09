@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="asteroid-of-the-damned.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+		<ignore>
+			<code>t-032</code>
+			<reason>Period not part of abbr</reason>
+		</ignore>
+	</file>
+	<file path="double-cross.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+	</file>
+	<file path="my-lady-greensleeves.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+		<ignore>
+			<code>t-032</code>
+			<reason>Period not part of abbr</reason>
+		</ignore>
+	</file>
+	<file path="the-day-of-the-boomer-dukes.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Followed case styling in scan</reason>
+		</ignore>
+	</file>
+	<file path="the-five-hells-of-orion.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from same speaker</reason>
+		</ignore>
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+	</file>
+	<file path="the-knights-of-arthur.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+		<ignore>
+			<code>t-032</code>
+			<reason>Period not part of abbr</reason>
+		</ignore>
+	</file>
+	<file path="the-tunnel-under-the-world.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+	</file>
+	<file path="wolfbane.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
+		<ignore>
+			<code>t-041</code>
+			<reason>Colon usage is non-grammatical</reason>
+		</ignore>
+		<ignore>
+			<code>t-042</code>
+			<reason>Style choice</reason>
+		</ignore>
+		<ignore>
+			<code>t-057</code>
+			<reason>Style choice for checklist</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
