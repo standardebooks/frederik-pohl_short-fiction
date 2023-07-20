@@ -31,6 +31,10 @@
 			<code>s-023</code>
 			<reason>Followed case styling in scan</reason>
 		</ignore>
+		<ignore>
+			<code>t-030</code>
+			<reason>Style choice</reason>
+		</ignore>
 	</file>
 	<file path="the-five-hells-of-orion.xhtml">
 		<ignore>
