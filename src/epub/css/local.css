@@ -23,7 +23,7 @@ q{
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
-/* end era*/
+/* end era */
 
 /* blockquote header */
 blockquote header{
