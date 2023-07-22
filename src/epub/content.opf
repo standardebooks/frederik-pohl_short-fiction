@@ -28,43 +28,130 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-4">Time travel--Fiction</dc:subject>
+		<dc:subject id="subject-5">Extraterrestrial beings--Fiction</dc:subject>
+		<dc:subject id="subject-6">Space flight--Fiction</dc:subject>
+		<dc:subject id="subject-7">Paranormal fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008105650</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008112697</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2009125313</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008111360</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh98004865</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of science fiction stories by Frederik Pohl ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<!-- Pythias -->
+		<dc:source>https://www.gutenberg.org/ebooks/30399</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v09n05_1955-02</dc:source>
+		<!-- Double-Cross -->
+      <!-- Planet Stories, Winter 1944 -->
+		<dc:source>https://www.gutenberg.org/ebooks/63304</dc:source>
+		<dc:source>https://drive.google.com/open?id=1EgZKIyQJ74g-zMLI3QJCiMTQwfyOH7h1</dc:source>
+		<!-- The Hated -->
+		<dc:source>https://www.gutenberg.org/ebooks/29503</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v15n03_1958-01</dc:source>
+		<!-- The Engineer -->
+      <!-- Infinity Science Fiction, February 1956 -->
+		<dc:source>https://www.gutenberg.org/ebooks/67343</dc:source>
+		<dc:source>https://s3.us-west-1.wasabisys.com/luminist/SF/ISF_1956_02.pdf</dc:source>
+		<!-- A Hitch in Time -->
+      <!-- Thrilling Wonder Stories, June 1947 -->
+		<dc:source>https://www.gutenberg.org/ebooks/68959</dc:source>
+		<dc:source>https://drive.google.com/open?id=1QIFJxXI3FBqjOXbCAt49wsgZLDEV75o1</dc:source>
+		<!-- Asteroid of the Damned -->
+      <!-- Planet Stories, Summer 1942 -->
+		<dc:source>https://www.gutenberg.org/ebooks/62168</dc:source>
+		<dc:source>https://drive.google.com/open?id=1ZGBfAUagTF4Azw9JFWGbi3zMCFJicXyS</dc:source>
+		<!-- Let the Ants Try -->
+      <!-- Planet Stories, Winter 1949 -->
+		<dc:source>https://www.gutenberg.org/ebooks/64631</dc:source>
+		<dc:source>https://drive.google.com/open?id=1n1zYGQjINsAPw5kITzhiE8VQLr-8L7zf</dc:source>
+		<!-- The Day of the Boomer Dukes -->
+      <!-- Future Science Fiction No. 30, 1956 -->
+		<dc:source>https://www.gutenberg.org/ebooks/22559</dc:source>
+		<dc:source>https://drive.google.com/open?id=1TfacVwEpee29rZw4RBXdZQkLXlR_bdvc</dc:source>
+		<!-- Conspiracy on Callisto -->
+      <!-- Planet Stories, Winter 1943 -->
+		<dc:source>https://www.gutenberg.org/ebooks/62476</dc:source>
+		<dc:source>https://drive.google.com/open?id=1CnlFJjH0iw9DDZ_Snf3xAj_37MMPrBZW</dc:source>
+		<!-- The Tunnel Under the World -->
+		<dc:source>https://www.gutenberg.org/ebooks/31979</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v09n04_1955-01</dc:source>
+		<!-- The Five Hells of Orion -->
+		<dc:source>https://www.gutenberg.org/ebooks/61380</dc:source>
+		<dc:source>https://archive.org/details/1963-01_IF</dc:source>
+		<!-- Survival Kit -->
+		<dc:source>https://www.gutenberg.org/ebooks/51809</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v14n01_1957-05</dc:source>
+		<!-- My Lady Greensleeves -->
+		<dc:source>https://www.gutenberg.org/ebooks/51310</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v13n04_1957-02</dc:source>
+		<!-- The Knights of Arthur -->
+		<dc:source>https://www.gutenberg.org/ebooks/32004</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v15n03_1958-01</dc:source>
+      <!-- Wolfbane -->
+		<dc:source>https://www.gutenberg.org/ebooks/51845</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v14n06_1957-10</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v15n01_1957-11</dc:source>
+		<meta property="se:production-notes">Some features commonly used in magazine layout, such as editorial synopses, frequent breaks, and captions, were removed.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frederik_Pohl_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_short-fiction</meta>
 		<dc:creator id="author">Frederik Pohl</dc:creator>
 		<meta property="file-as" refines="#author">Pohl, Frederik</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79029809</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="contributor">C. M. Kornbluth</dc:contributor>
+		<meta property="file-as" refines="#contributor">Kornbluth, C. M.</meta>
+      <meta property="se:name.person.full-name" refines="#contributor">Cyril M. Kornbluth</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Cyril_M._Kornbluth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n50053582</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
+		<dc:contributor id="artist">Albert Bloch</dc:contributor>
+		<meta property="file-as" refines="#artist">Bloch, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Bloch</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no97003532</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Barbara Tozier</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Tozier, Barbara</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Blundell, Stephen</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Sankar Viswanathan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Viswanathan, Sankar</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-6">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
