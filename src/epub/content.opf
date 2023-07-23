@@ -53,41 +53,42 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction stories by Frederik Pohl ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In this selection of &lt;a href="https://standardebooks.org/ebooks/frederik-pohl’s"&gt;Frederik Pohl&lt;/a&gt; short science fiction stories, the topics are quite diverse. They cover out-of-body experiences, alien visits, and the psychological effects of space travel, to name a few. These were published between 1942 and 1962, with some of them set in what feels like the same era in which they were written. Pohl’s work is very human-centered, often with only minimal futuristic or speculative elements.&lt;/p&gt;
+			&lt;p&gt;Pohl started writing science fiction in 1937, publishing short pieces in sci-fi magazines. He also got an early start as a magazine editor. He sometimes collaborated with other authors, like C. M. Kornbluth. Pohl used various pseudonyms, especially in his earlier work; in this collection, that includes James MacCreigh, Paul Flehr, and Dirk Wylie. He was a popular author in a career that lasted 75 years.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Pythias -->
 		<dc:source>https://www.gutenberg.org/ebooks/30399</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v09n05_1955-02</dc:source>
 		<!-- Double-Cross -->
-      <!-- Planet Stories, Winter 1944 -->
+		<!-- Planet Stories, Winter 1944 -->
 		<dc:source>https://www.gutenberg.org/ebooks/63304</dc:source>
 		<dc:source>https://drive.google.com/open?id=1EgZKIyQJ74g-zMLI3QJCiMTQwfyOH7h1</dc:source>
 		<!-- The Hated -->
 		<dc:source>https://www.gutenberg.org/ebooks/29503</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v15n03_1958-01</dc:source>
 		<!-- The Engineer -->
-      <!-- Infinity Science Fiction, February 1956 -->
+		<!-- Infinity Science Fiction, February 1956 -->
 		<dc:source>https://www.gutenberg.org/ebooks/67343</dc:source>
 		<dc:source>https://s3.us-west-1.wasabisys.com/luminist/SF/ISF_1956_02.pdf</dc:source>
 		<!-- A Hitch in Time -->
-      <!-- Thrilling Wonder Stories, June 1947 -->
+		<!-- Thrilling Wonder Stories, June 1947 -->
 		<dc:source>https://www.gutenberg.org/ebooks/68959</dc:source>
 		<dc:source>https://drive.google.com/open?id=1QIFJxXI3FBqjOXbCAt49wsgZLDEV75o1</dc:source>
 		<!-- Asteroid of the Damned -->
-      <!-- Planet Stories, Summer 1942 -->
+		<!-- Planet Stories, Summer 1942 -->
 		<dc:source>https://www.gutenberg.org/ebooks/62168</dc:source>
 		<dc:source>https://drive.google.com/open?id=1ZGBfAUagTF4Azw9JFWGbi3zMCFJicXyS</dc:source>
 		<!-- Let the Ants Try -->
-      <!-- Planet Stories, Winter 1949 -->
+		<!-- Planet Stories, Winter 1949 -->
 		<dc:source>https://www.gutenberg.org/ebooks/64631</dc:source>
 		<dc:source>https://drive.google.com/open?id=1n1zYGQjINsAPw5kITzhiE8VQLr-8L7zf</dc:source>
 		<!-- The Day of the Boomer Dukes -->
-      <!-- Future Science Fiction No. 30, 1956 -->
+		<!-- Future Science Fiction No. 30, 1956 -->
 		<dc:source>https://www.gutenberg.org/ebooks/22559</dc:source>
 		<dc:source>https://drive.google.com/open?id=1TfacVwEpee29rZw4RBXdZQkLXlR_bdvc</dc:source>
 		<!-- Conspiracy on Callisto -->
-      <!-- Planet Stories, Winter 1943 -->
+		<!-- Planet Stories, Winter 1943 -->
 		<dc:source>https://www.gutenberg.org/ebooks/62476</dc:source>
 		<dc:source>https://drive.google.com/open?id=1CnlFJjH0iw9DDZ_Snf3xAj_37MMPrBZW</dc:source>
 		<!-- The Tunnel Under the World -->
@@ -105,7 +106,7 @@
 		<!-- The Knights of Arthur -->
 		<dc:source>https://www.gutenberg.org/ebooks/32004</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v15n03_1958-01</dc:source>
-      <!-- Wolfbane -->
+		<!-- Wolfbane -->
 		<dc:source>https://www.gutenberg.org/ebooks/51845</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v14n06_1957-10</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v15n01_1957-11</dc:source>
@@ -121,7 +122,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="contributor">C. M. Kornbluth</dc:contributor>
 		<meta property="file-as" refines="#contributor">Kornbluth, C. M.</meta>
-      <meta property="se:name.person.full-name" refines="#contributor">Cyril M. Kornbluth</meta>
+		<meta property="se:name.person.full-name" refines="#contributor">Cyril M. Kornbluth</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Cyril_M._Kornbluth</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n50053582</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
