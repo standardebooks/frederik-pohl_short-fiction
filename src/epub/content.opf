@@ -116,6 +116,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frederik_Pohl_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_short-fiction</meta>
 		<dc:creator id="author">Frederik Pohl</dc:creator>
+		<meta property="se:name.person.full-name" refines="#author">Frederik George Pohl Jr.</meta>
 		<meta property="file-as" refines="#author">Pohl, Frederik</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79029809</meta>
