@@ -13,6 +13,23 @@ footer{
 }
 /* end letters */
 
+/* verse */
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+/* end verse */
+
 /* q italics */
 q{
 	font-style: italic;
@@ -31,12 +48,6 @@ blockquote header{
 	text-align: center;
 }
 /* end blockquote header */
-
-/* special italic styling */
-blockquote p span{
-	font-style: italic;
-}
-/* end special italic styling */
 
 /* blockquote loud advert */
 #the-tunnel-under-the-world-2 blockquote p{
