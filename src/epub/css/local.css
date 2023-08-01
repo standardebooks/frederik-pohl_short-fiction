@@ -54,3 +54,9 @@ blockquote header{
 	font-variant: small-caps;
 }
 /* end blockquote loud advert */
+
+/* uppercase for arthur */
+#the-knights-of-arthur b{
+	text-transform: uppercase;
+}
+/* end uppercase */
