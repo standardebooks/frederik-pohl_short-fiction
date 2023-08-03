@@ -45,7 +45,6 @@ abbr[epub|type~="se:era"]{
 /* blockquote header */
 blockquote header{
 	font-variant: small-caps;
-	text-align: center;
 }
 /* end blockquote header */
 
