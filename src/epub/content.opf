@@ -54,7 +54,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of science fiction stories by Frederik Pohl ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This selection of &lt;a href="https://standardebooks.org/ebooks/frederik-pohl"&gt;Frederik Pohl's&lt;/a&gt; science fiction short stories covers topics ranging from out-of-body experiences, to alien visits, to the psychological effects of space travel, and more. The stories were published between 1942 and 1962, with some of them set in what feels like the same era in which they were written. Pohl’s work is very human-centered, often with only minimal futuristic or speculative elements.&lt;/p&gt;
+			&lt;p&gt;This selection of &lt;a href="https://standardebooks.org/ebooks/frederik-pohl"&gt;Frederik Pohl’s&lt;/a&gt; science fiction short stories covers topics ranging from out-of-body experiences, to alien visits, to the psychological effects of space travel, and more. The stories were published between 1942 and 1962, with some of them set in what feels like the same era in which they were written. Pohl’s work is very human-centered, often with only minimal futuristic or speculative elements.&lt;/p&gt;
 			&lt;p&gt;Pohl used pseudonyms for some of these short stories, including James MacCreigh, Paul Flehr, and Dirk Wylie.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
