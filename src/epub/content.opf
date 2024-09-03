@@ -70,9 +70,6 @@
 		<!-- The Engineer -->
 		<dc:source>https://www.gutenberg.org/ebooks/67343</dc:source>
 		<dc:source>https://archive.org/details/Infinity_v01n02_1956-02_slpn</dc:source>
-		<!-- A Hitch in Time -->
-		<dc:source>https://www.gutenberg.org/ebooks/68959</dc:source>
-		<dc:source>https://archive.org/details/Thrilling_Wonder_Stories_v30n02_1947-06</dc:source>
 		<!-- Asteroid of the Damned -->
 		<dc:source>https://www.gutenberg.org/ebooks/62168</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v01n11_1942-Su_sas</dc:source>
@@ -104,7 +101,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51845</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v14n06_1957-10</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v15n01_1957-11</dc:source>
-		<meta property="se:word-count">144191</meta>
+		<meta property="se:word-count">141243</meta>
 		<meta property="se:reading-ease.flesch">75.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frederik_Pohl_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_short-fiction</meta>
@@ -165,7 +162,6 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/a-hitch-in-time.xhtml" id="a-hitch-in-time.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/asteroid-of-the-damned.xhtml" id="asteroid-of-the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/conspiracy-on-callisto.xhtml" id="conspiracy-on-callisto.xhtml" media-type="application/xhtml+xml"/>
@@ -192,7 +188,6 @@
 		<itemref idref="asteroid-of-the-damned.xhtml"/>
 		<itemref idref="conspiracy-on-callisto.xhtml"/>
 		<itemref idref="double-cross.xhtml"/>
-		<itemref idref="a-hitch-in-time.xhtml"/>
 		<itemref idref="let-the-ants-try.xhtml"/>
 		<itemref idref="the-tunnel-under-the-world.xhtml"/>
 		<itemref idref="pythias.xhtml"/>
