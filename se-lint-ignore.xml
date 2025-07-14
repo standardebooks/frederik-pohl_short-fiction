@@ -3,37 +3,41 @@
 	<file path="the-day-of-the-boomer-dukes.xhtml">
 		<ignore>
 			<code>s-023</code>
-			<reason>Followed case styling in scan</reason>
+			<reason>Followed case styling in scan.</reason>
 		</ignore>
 	</file>
 	<file path="the-five-hells-of-orion.xhtml">
 		<ignore>
 			<code>t-003</code>
-			<reason>Dialog from same speaker</reason>
+			<reason>Dialog from same speaker.</reason>
 		</ignore>
 	</file>
 	<file path="the-knights-of-arthur.xhtml">
 		<ignore>
 			<code>t-030</code>
-			<reason>Style choice</reason>
+			<reason>Style choice.</reason>
 		</ignore>
 		<ignore>
 			<code>y-003</code>
-			<reason>Teletype no punctuation</reason>
+			<reason>Teletype no punctuation.</reason>
+		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="wolfbane.xhtml">
 		<ignore>
 			<code>t-041</code>
-			<reason>Colon usage is non-grammatical</reason>
+			<reason>Colon usage is non-grammatical.</reason>
 		</ignore>
 		<ignore>
 			<code>y-005</code>
-			<reason>Style choice</reason>
+			<reason>Style choice.</reason>
 		</ignore>
 		<ignore>
 			<code>t-057</code>
-			<reason>Style choice for checklist</reason>
+			<reason>Style choice for checklist.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
