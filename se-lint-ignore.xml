@@ -32,12 +32,12 @@
 			<reason>Colon usage is non-grammatical.</reason>
 		</ignore>
 		<ignore>
-			<code>y-005</code>
-			<reason>Style choice.</reason>
-		</ignore>
-		<ignore>
 			<code>t-057</code>
 			<reason>Style choice for checklist.</reason>
+		</ignore>
+		<ignore>
+			<code>y-005</code>
+			<reason>Style choice.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
