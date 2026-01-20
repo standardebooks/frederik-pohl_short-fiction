@@ -102,7 +102,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51845</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v14n06_1957-10</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v15n01_1957-11</dc:source>
-		<meta property="se:word-count">141245</meta>
+		<meta property="se:word-count">138151</meta>
 		<meta property="se:reading-ease.flesch">75.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frederik_Pohl_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_short-fiction</meta>
