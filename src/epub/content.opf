@@ -110,8 +110,8 @@
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/frederik-pohl_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Frederik Pohl</dc:creator>
-		<meta property="schema:alternateName" refines="#author">Frederik George Pohl Jr.</meta>
 		<meta property="file-as" refines="#author">Pohl, Frederik</meta>
+		<meta property="schema:alternateName" refines="#author">Frederik George Pohl Jr.</meta>
 		<link href="https://en.wikipedia.org/wiki/Frederik_Pohl" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79029809.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
